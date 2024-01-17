@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AnzhelikaBcn/SQL-CYPRESS#readme",
   "devDependencies": {
     "cypress": "^13.6.3"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
   }
 }
